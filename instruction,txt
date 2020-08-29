@@ -44,4 +44,6 @@ John Ilozor@DESKTOP-JK31MU7 MINGW64 ~/code/projects/John-Ilozor-92 (master)
 $ git commit -am "change to title"
 [master 7e02f79] change to title
  1 file changed, 1 insertion(+), 1 deletion(-)
+ 
+ THis is not good
 
